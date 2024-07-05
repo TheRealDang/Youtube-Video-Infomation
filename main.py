@@ -1,4 +1,4 @@
-import curses, pytube, requests
+import curses, pytube
 stdscr = curses.initscr()
 curses.noecho()
 
